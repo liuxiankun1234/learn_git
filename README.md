@@ -1,3 +1,3 @@
 # learn_git
 a repository for learning git
-test_01
+test_02
